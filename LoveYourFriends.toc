@@ -1,0 +1,14 @@
+## Interface: 99999
+    /dump select(4, GetBuildInfo())
+    very top number, game's version number! 
+## Title: LoveYourFriends
+## Notes: Automate series of ~~annoying~~ soothing messages to ~~harass~~ comfort your friends!
+## Author: Andrew Forman
+## Version: 0.0.1
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+    come back to this later (after we've made a project on curse forge!)
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+LoveYourFriends.lua
